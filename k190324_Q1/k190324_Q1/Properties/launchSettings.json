@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "k190324_Q1": {
+      "commandName": "Project",
+      "commandLineArgs": "https://www.psx.com.pk/market-summary D:\\tmp\\"
+    }
+  }
+}

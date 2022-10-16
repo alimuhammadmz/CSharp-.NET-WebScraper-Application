@@ -1,0 +1,16 @@
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\bin\Debug\net6.0\k190324_Q1.exe
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\bin\Debug\net6.0\k190324_Q1.deps.json
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\bin\Debug\net6.0\k190324_Q1.runtimeconfig.json
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\bin\Debug\net6.0\k190324_Q1.dll
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\bin\Debug\net6.0\k190324_Q1.pdb
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.csproj.AssemblyReference.cache
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.AssemblyInfoInputs.cache
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.AssemblyInfo.cs
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.csproj.CoreCompileInputs.cache
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.dll
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\refint\k190324_Q1.dll
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.pdb
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.genruntimeconfig.cache
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\ref\k190324_Q1.dll
+D:\University\7th Semester\IPT\k190324_Assignment1\k190324_Q1\k190324_Q1\obj\Debug\net6.0\k190324_Q1.csproj.ResolveComReference.cache

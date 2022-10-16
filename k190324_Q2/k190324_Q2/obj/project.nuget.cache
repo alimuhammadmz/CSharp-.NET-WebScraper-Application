@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZi4iEysuCy4MaLUpc5RTSmKJVHBULPDyoT55qnz3v+VG8K56ORSWslp/vlURRJ7PKDU1fA4bpV17E2RhxQR4Q==",
+  "success": true,
+  "projectFilePath": "D:\\University\\7th Semester\\IPT\\k190324_Assignment1\\k190324_Q2\\k190324_Q2\\k190324_Q2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\system.configuration.abstractions\\2.0.2.45\\system.configuration.abstractions.2.0.2.45.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
