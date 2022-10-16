@@ -1,0 +1,26 @@
+#dropdown{
+    margin-top: 3%;
+    margin-left: 31.5%;
+    width: 30%;
+    color: #555555;
+}
+
+#head1{
+    text-align: center;
+}
+
+#refreshButton{
+    margin-left: 1%;
+    background-color: #555555;
+    color: whitesmoke;
+    border: none;
+}
+
+#scriptsXML{
+    border: 1px solid rgb(32, 24, 24);
+}
+
+#head-foot{
+    color: #555555;
+    text-align: center;
+}

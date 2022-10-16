@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cr/9FBbU7Z1v7HhzyJEDgM2Xx+kSpnTzXG3HD3c6UOnhP1SliZo9KTq/l8rrOM3fphRjsIP9/JKSqV5sEqhVhw==",
+  "success": true,
+  "projectFilePath": "D:\\University\\7th Semester\\IPT\\k190324_Assignment1\\k190324_Q3\\k190324_Q3\\k190324_Q3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\system.configuration.abstractions\\2.0.2.45\\system.configuration.abstractions.2.0.2.45.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\Ali Muhammad Moaiz\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
